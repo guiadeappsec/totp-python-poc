@@ -9,4 +9,3 @@ code = input("Code: ")
 
 print(f"Code Valid: {totp.verify(code)}")
 
-
